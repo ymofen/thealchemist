@@ -1,4 +1,7 @@
 defmodule Ext do
+  @moduledoc """
+  Alchemist Ext
+  """
 
   use Behaviour
 

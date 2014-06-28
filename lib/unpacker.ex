@@ -1,4 +1,7 @@
 defmodule Unpacker do
+  @moduledoc """
+  Alchemist Unpacker
+  """
   @spec unpack(binary) :: { :ok, term } | { :error, term }
   @spec unpack(binary, Keyword.t) :: { :ok, term } | { :error, term }
   def unpack(binary, options \\ []) when is_binary(binary) do

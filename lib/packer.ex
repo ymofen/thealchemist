@@ -1,4 +1,7 @@
 defmodule Packer do
+  @moduledoc """
+  Alchemist Packer
+  """
   @spec pack(term) :: { :ok, binary } | { :error, term }
   @spec pack(term, Keyword.t) :: { :ok, binary } | { :error, term }
   def pack(term, options \\ []) do

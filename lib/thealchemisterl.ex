@@ -1,6 +1,6 @@
 defmodule TheAlchemistErl do
   @moduledoc """
-  Alchemist erlang core functions
+  Alchemist erlang core
   """
 
 	def pack(pack_data) do

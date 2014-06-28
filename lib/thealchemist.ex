@@ -1,6 +1,6 @@
 defmodule TheAlchemist do
   @moduledoc """
-  Alchemist core functions
+  Alchemist core
   """
 
 	def pack(pack_data) do
