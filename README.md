@@ -6,10 +6,10 @@ The Alchemist
 Elixir implementation bundle for MessagePack
 
 Elixir implementation relies on `mururu/msgpack-elixir`
-[![GitHub version](https://badge.fury.io/gh/mururu%2Fmsgpack-elixir@2x.png)](http://badge.fury.io/gh/mururu%2Fmsgpack-elixir)
+[![GitHub version](https://badge.fury.io/gh/mururu%2Fmsgpack-elixir.svg)](http://badge.fury.io/gh/mururu%2Fmsgpack-elixir)
 
 Pure erlang implementation used with `msgpack/msgpack-erlang`
-[![GitHub version](https://badge.fury.io/gh/msgpack%2Fmsgpack-erlang@2x.png)](http://badge.fury.io/gh/msgpack%2Fmsgpack-erlang)
+[![GitHub version](https://badge.fury.io/gh/msgpack%2Fmsgpack-erlang.svg)](http://badge.fury.io/gh/msgpack%2Fmsgpack-erlang)
 
 ## Usage
 
