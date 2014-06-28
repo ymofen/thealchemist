@@ -1,6 +1,8 @@
 The Alchemist
 ============
 
+[![Build Status](https://travis-ci.org/vertexclique/thealchemist.svg?branch=master)](https://travis-ci.org/vertexclique/thealchemist)
+
 Elixir implementation bundle for MessagePack
 
 Elixir implementation relies on `mururu/msgpack-elixir`
